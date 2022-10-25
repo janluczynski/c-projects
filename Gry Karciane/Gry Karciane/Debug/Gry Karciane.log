@@ -1,0 +1,5 @@
+﻿  GryKarciane.cpp
+C:\Users\twuj stary\source\repos\Gry Karciane\Gry Karciane\GryKarciane.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\twuj stary\source\repos\Gry Karciane\Gry Karciane\GryKarciane.cpp(31,10): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\twuj stary\source\repos\Gry Karciane\Gry Karciane\GryKarciane.cpp(159): warning C4715: 'walka': not all control paths return a value
+  Gry Karciane.vcxproj -> C:\Users\twuj stary\source\repos\Gry Karciane\Debug\Gry Karciane.exe
